@@ -22,10 +22,15 @@
 
 ## Λίστα υλικών που θα χρειαστούμε
 
--   [Microbit V2](https://microbit.org/new-microbit/)  – κόστος 20 ευρώ
--   [Maqueen Plus](https://www.dfrobot.com/product-2026.html)  platform for Microbit – κόστος 60 ευρώ
--   [DC Mini Immersible Water Pump](https://www.why.gr/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B1/open-hardware/dfrobot/dc-mini-immersible-water-pump-6v18v/)  – κόστος 12 ευρώ
--   [HuskyLens](https://www.why.gr/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CF%84%CE%B7%CE%BC%CE%B1/open-hardware/dfrobot/huskylens-%CE%B5%CF%8D%CE%BA%CE%BF%CE%BB%CE%B7-%CF%83%CF%84%CE%B7-%CF%87%CF%81%CE%AE%CF%83%CE%B7-%CE%B1rtificial-%CE%B9ntelligence-%CE%BA%CE%AC%CE%BC%CE%B5%CF%81%CE%B1/)  AI Camera for Microbit – κόστος 60 ευρώ
+-   [Funduino](https://grobotronics.com/funduino-uno-rev3-arduino-uno-compatible.html) - κόστος 12 ευρώ
+-   [HuskyLens](https://www.hellasdigital.gr/electronics/sensors/gravity-huskylens-an-easy-to-use-ai-machine-vision-sensor/) – κόστος 56 ευρώ
+-   [Αισθητήρας Φωτιάς 5 Channels](https://grobotronics.com/flame-sensor-5-ch.html) - κόστος 7 ευρώ
+-   [Robot Smart Car 4WD](https://grobotronics.com/robot-smart-car-4wd-chassis-26cm.html) - κόστος 17 ευρώ
+-   [Dual Motor Driver Module L298N](https://grobotronics.com/dual-motor-driver-module-l298n.html) - κόστος 5 ευρώ
+-   [Relay Module](https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger-screw-terminals.html) - κόστος 2 ευρώ
+-   [Mini Brushless Water Pump](https://grobotronics.com/mini-brushless-water-pump-12v-dc-240l-h-ad20p-1230a.html)  – κόστος 7 ευρώ
+-   [Bluetooth Module for Arduino](https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) - κόστος 7 ευρώ
+
 -   DJI Tello Drone (το έχουμε ήδη στο εργαστήριο μας)
 -   [PLA Fillament 1KG](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915/PLA.html?keyphrase=1+75+1kg&o=1.75+pla+1kg)  – κόστος 20 ευρώ
 
