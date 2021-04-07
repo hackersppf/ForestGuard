@@ -35,7 +35,7 @@
 -   [12v 2-3S Basic Balance Charger](https://www.hellasdigital.gr/electronics/batteries/chargers/turnigy-12v-2-3s-basic-balance-charger/) - κόστος 12 ευρώ
 -   [Πλακέτα Δοκιμών 400 Οπές](https://grobotronics.com/breadboard-400-tie-point-white-half-size.html) - κόστος 3 ευρώ
 -   DJI Tello Drone (το έχουμε ήδη στο εργαστήριο μας)
--   [PLA Fillament 1KG](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915/PLA.html?keyphrase=1+75+1kg&o=1.75+pla+1kg)  – κόστος 20 ευρώ
+-   [PLA Fillament 1KG](https://grobotronics.com/3d-printer-filament-devil-pla-1.75mm-pink-1kg.html)  – κόστος 22 ευρώ
 
 **Συνολικό κόστος: 172 ευρώ**
 ![enter image description here](https://ppf.edu.gr/hackers/wp-content/uploads/2021/03/forest-guard.png)
