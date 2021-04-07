@@ -37,5 +37,5 @@
 -   DJI Tello Drone (το έχουμε ήδη στο εργαστήριο μας)
 -   [PLA Fillament 1KG](https://grobotronics.com/3d-printer-filament-devil-pla-1.75mm-pink-1kg.html)  – κόστος 22 ευρώ
 
-**Συνολικό κόστος: 172 ευρώ**
+**Συνολικό κόστος: 167 ευρώ**
 ![enter image description here](https://ppf.edu.gr/hackers/wp-content/uploads/2021/03/forest-guard.png)
