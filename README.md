@@ -31,6 +31,9 @@
 -   [Mini Brushless Water Pump](https://grobotronics.com/mini-brushless-water-pump-12v-dc-240l-h-ad20p-1230a.html)  – κόστος 7 ευρώ
 -   [Bluetooth Module for Arduino](https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) - κόστος 7 ευρώ
 -   [Servo Micro](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html) - κόστος 4 ευρώ
+-   [800mAh 11.1V 45C 3S1P Lipo Battery Pack](https://www.hellasdigital.gr/electronics/batteries/lipo/gens-ace-800mah-11.1v-40c-3s1p-lipo-battery-pack/) - κόστος 13 ευρώ
+-   [12v 2-3S Basic Balance Charger](https://www.hellasdigital.gr/electronics/batteries/chargers/turnigy-12v-2-3s-basic-balance-charger/) - κόστος 12 ευρώ
+-   [Πλακέτα Δοκιμών 400 Οπές](https://grobotronics.com/breadboard-400-tie-point-white-half-size.html) - κόστος 3 ευρώ
 -   DJI Tello Drone (το έχουμε ήδη στο εργαστήριο μας)
 -   [PLA Fillament 1KG](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915/PLA.html?keyphrase=1+75+1kg&o=1.75+pla+1kg)  – κόστος 20 ευρώ
 
