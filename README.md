@@ -30,7 +30,7 @@
 -   [Relay Module](https://grobotronics.com/relay-module-1-channel-5v-high-level-trigger-screw-terminals.html) - κόστος 2 ευρώ
 -   [Mini Brushless Water Pump](https://grobotronics.com/mini-brushless-water-pump-12v-dc-240l-h-ad20p-1230a.html)  – κόστος 7 ευρώ
 -   [Bluetooth Module for Arduino](https://grobotronics.com/bluetooth-module-for-arduino-hc05.html) - κόστος 7 ευρώ
-
+-   [Servo Micro](https://grobotronics.com/servo-micro-1.5kg.cm-plastic-gears-feetech-fs90.html) - κόστος 4 ευρώ
 -   DJI Tello Drone (το έχουμε ήδη στο εργαστήριο μας)
 -   [PLA Fillament 1KG](https://www.skroutz.gr/c/1646/3d-printer-filament/f/626915/PLA.html?keyphrase=1+75+1kg&o=1.75+pla+1kg)  – κόστος 20 ευρώ
 
